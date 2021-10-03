@@ -1,4 +1,3 @@
-
 number1 = input("First number: ") 
 number2 = input("\nSecond number: ") 
  
